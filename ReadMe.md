@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on an Indie Game project called Chained<br>🌱 Studying Computer Science and Engineering at Instituto Superior Técnico<br>
+🌱 Studying Computer Science and Engineering at Instituto Superior Técnico<br>
 
 
 ## 🌐 Socials:
